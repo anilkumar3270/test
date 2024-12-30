@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 i am not good 
 now iam cazy
+=======
+i am not good admh 
+>>>>>>> 3afa918 (iile)
